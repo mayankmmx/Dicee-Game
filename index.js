@@ -25,7 +25,7 @@ function newDiceeGame() {
   }
   // If Draw happens
   else {
-    document.querySelector("h1").innerHTML = "Draw!";
+    document.querySelector("h1").innerHTML = "Game is Drawn!";
   }
 
 }
